@@ -15,8 +15,8 @@
               "state": {
                 "file": "MIndMap.canvas",
                 "viewState": {
-                  "x": -450.5,
-                  "y": -314,
+                  "x": -445,
+                  "y": -480,
                   "zoom": 0
                 }
               },
@@ -184,5 +184,10 @@
     }
   },
   "active": "696adcf62ff189fb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE.md",
+    "MIndMap.canvas",
+    "SOP-snapshots/Snipaste_2026-06-25_08-35-45.png"
+  ]
 }

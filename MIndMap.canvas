@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"a58a5b3842dd2e4b","type":"text","text":"功能一、用Obsidian建立本地Repository，用Github来存储网络备份并开源。","x":-760,"y":-580,"width":299,"height":92},
-		{"id":"3a18e06ff50565c0","x":-760,"y":-440,"width":299,"height":100,"type":"text","text":"功能二、用Nutstore实现本地Repository的三端（电脑、平板和手机）同步"}
+		{"id":"a58a5b3842dd2e4b","type":"text","text":"功能一、用Obsidian建立本地Repository，用Github来存储网络备份并开源","x":-760,"y":-580,"width":299,"height":92},
+		{"id":"3a18e06ff50565c0","type":"text","text":"功能二、用Nutstore实现本地Repository的三端（电脑、平板和手机）同步","x":-760,"y":-440,"width":299,"height":100},
+		{"id":"5db9923080be6e54","type":"text","text":"利用图床工具来将Obsidian中图片托管到云端，并生成URL给HTML引用","x":-380,"y":-620,"width":250,"height":86},
+		{"id":"18cdc2e91c675276","x":-760,"y":-300,"width":299,"height":100,"type":"text","text":"功能三、使用HTML Export插件将Obsidian库导出为网页"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c69c6dab65c8a837","fromNode":"a58a5b3842dd2e4b","fromSide":"right","toNode":"5db9923080be6e54","toSide":"left"}
+	]
 }
