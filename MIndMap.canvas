@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a58a5b3842dd2e4b","x":-600,"y":-360,"width":299,"height":92,"type":"text","text":"用Obsidian建立本地Repository，用Github来存储网络备份。"}
+		{"id":"a58a5b3842dd2e4b","type":"text","text":"功能一、用Obsidian建立本地Repository，用Github来存储网络备份并开源。","x":-600,"y":-360,"width":299,"height":92}
 	],
 	"edges":[]
 }
