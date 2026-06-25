@@ -1,3 +1,5 @@
+This public repository teaches you step by step how to save your local obsidian vault on Github.
+
 1. Create a new folder ![[Snipaste_2026-06-25_07-33-09.png]]
 2. Install and open Obsidian, click "manage vaults" and choose "open folder as vault“ ![[Snipaste_2026-06-25_07-35-35.png]]
 3. Choose the folder you created in Step 1.
