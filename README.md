@@ -3,6 +3,8 @@
 3. Choose the folder you created in Step 1.
 4. Install Git and right click the folder ![[Snipaste_2026-06-25_08-14-22.png]]
 5. Open Git Bash and input "git init" ,enter ![[Snipaste_2026-06-25_08-16-05.png]]
-6. Install and open Github Desktop, Ctrl+O to add the local repository
-7. Publish the local repository to Github.com
-8. Ctrl+Shift+G to view your repository on Github
+6. Install and open Github Desktop, Ctrl+O to add the local repository ![[Snipaste_2026-06-25_08-21-57.png]]
+7. Publish the local repository to Github.com ![[Snipaste_2026-06-25_08-24-22.png]]
+8. Ctrl+Shift+G to view your repository on Github ![[Snipaste_2026-06-25_08-28-01.png]]
+9. Commit changes to master ![[Snipaste_2026-06-25_08-35-45.png]]
+10. Publish again
