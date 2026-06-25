@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"a58a5b3842dd2e4b","type":"text","text":"功能一、用Obsidian建立本地Repository，用Github来存储网络备份并开源。","x":-600,"y":-360,"width":299,"height":92}
+		{"id":"a58a5b3842dd2e4b","type":"text","text":"功能一、用Obsidian建立本地Repository，用Github来存储网络备份并开源。","x":-760,"y":-580,"width":299,"height":92},
+		{"id":"3a18e06ff50565c0","x":-760,"y":-440,"width":299,"height":100,"type":"text","text":"功能二、用Nutstore实现本地Repository的三端（电脑、平板和手机）同步"}
 	],
 	"edges":[]
 }

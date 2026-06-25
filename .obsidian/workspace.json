@@ -11,10 +11,17 @@
             "id": "696adcf62ff189fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "MIndMap.canvas",
+                "viewState": {
+                  "x": -450.5,
+                  "y": -314,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MIndMap"
             }
           }
         ]
