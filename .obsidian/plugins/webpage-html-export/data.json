@@ -12,7 +12,7 @@
     "inlineHTML": false,
     "exportPath": "D:\\New folder",
     "filesToExport": [
-      "all"
+      "index.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -20,7 +20,7 @@
     "addHeadTag": true,
     "backlinkOptions": {
       "featureId": "backlinks",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -32,7 +32,7 @@
     },
     "tagOptions": {
       "featureId": "tags",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -46,7 +46,7 @@
     },
     "aliasOptions": {
       "featureId": "aliases",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -101,7 +101,7 @@
     },
     "outlineOptions": {
       "featureId": "outline",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -150,7 +150,7 @@
     },
     "sidebarOptions": {
       "featureId": "sidebar",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -161,7 +161,7 @@
     },
     "customHeadOptions": {
       "featureId": "custom-head",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -193,7 +193,7 @@
     },
     "linkPreviewOptions": {
       "featureId": "link-preview",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": true
