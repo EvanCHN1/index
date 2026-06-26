@@ -11,7 +11,9 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "D:\\New folder",
-    "filesToExport": [],
+    "filesToExport": [
+      "all"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
@@ -211,7 +213,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "SOP-0",
+    "siteName": "index",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],

@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "696adcf62ff189fb",
+            "id": "782fe64f673a766a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MIndMap.canvas",
-                "viewState": {
-                  "x": -445,
-                  "y": -480,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MIndMap"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -180,14 +177,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "696adcf62ff189fb",
+  "active": "782fe64f673a766a",
   "lastOpenFiles": [
-    "README.md",
     "LICENSE.md",
     "MIndMap.canvas",
-    "SOP-snapshots/Snipaste_2026-06-25_08-35-45.png"
+    "index.md",
+    "README.md",
+    "404.md",
+    "New Text Document.txt",
+    "assets/Snipaste_2026-06-25_08-35-45.png"
   ]
 }
