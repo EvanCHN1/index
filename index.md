@@ -1,20 +1,20 @@
-本网站的网址是：
 
 https://neon-scone-e58aa5.netlify.app/
 
-如何实现此网站的建立？
+How to make a website like this？
 
-1. 在本地建立一个新文件夹，用Obsidian将其转化为一个Vault
-2. 在这个新文件夹中（亦即这个Vault中）新建一个index.md文件
-3. 为这个Vault安装2个社区插件，分别为：
+1. Create a new folder on your local device, then use Obsidian to make it a new vault
+2. Create an index.md file in this vault
+3. We need to add 2 community plugins to this Vault:
 	- Webpage HTML Export
 	- Git
-4. 用Webpage HTML Export插件将index.md文件导出为本地网站index.html文件
-5. 用Netlify部署index.html网页，获得网址
-6. 在Github Desktop中将新文件夹上传到Github作为一个远程repo
-7. 在Netlify中填写此repo的url信息进行关联
-8. 在Git插件设置中填写此repo的url信息进行关联
-9. 此时在Obsidian中对index.md进行改动并重复第4步并点击Git插件的Sync按钮（或者在Github Desktop中push更改）即可实现网站的实时更新
+4. Use Webpage HTML Export plugin to export the index.md file to an index.html file
+5. Drag and drop the index.html file to Netlify and deploy , then you will get a [[URL]]
+6. Use Github Desktop to upload the index.html folder to Github as a repo
+7. In Netlify fill in the repo's url to connect with Github(this step could be before step 6)
+8. In the Git plugin setting the repo's url to connect this Obsidian vault to Github
+9. Now in Obsidian edit index.md and do step 4 again
+10. Click Sync Remote button in the Plugin Ribbon (or use Github Desktop to push)
 ### A little about myself
 
 Hello! My name is _Evan Qian_. I am from Tongling, Anhui, PRC, a region renowned for its stunning rivers and majestic mountains. I have a passion for Chinese calligraphy, a daily hobby that I hold dear.
