@@ -11,7 +11,7 @@ This website marks my first venture into webpage development, and I’m excited 
 
 ### The climate in my hometown
 ![[temperature and precipitation.png]]
-## Viticulture Jargon 葡萄飬殖術語
+## Viticulture terminology and concepts 葡萄飬殖術語和概念
 
 ### Vine Physiology 葡萄生理學
 #### Canopy 樹冠
