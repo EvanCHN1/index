@@ -6,15 +6,15 @@ https://neon-scone-e58aa5.netlify.app/
 
 1. 在本地建立一个新文件夹，用Obsidian将其转化为一个Vault
 2. 在这个新文件夹中（亦即这个Vault中）新建一个index.md文件
-3. 为这个Vault安装3个社区插件，分别为：
+3. 为这个Vault安装2个社区插件，分别为：
 	- Webpage HTML Export
 	- Git
-	- Nutstore Sync
 4. 用Webpage HTML Export插件将index.md文件导出为本地网站index.html文件
 5. 用Netlify部署index.html网页，获得网址
 6. 在Github Desktop中将新文件夹上传到Github作为一个远程repo
 7. 在Netlify中填写此repo的url信息进行关联
-8. 此时在Obsidian中对index.md进行改动并重复第4步并在Github Desktop中push更改即可实现网站的实时更新
+8. 在Git插件设置中填写此repo的url信息进行关联
+9. 此时在Obsidian中对index.md进行改动并重复第4步并点击Git插件的Sync按钮（或者在Github Desktop中push更改）即可实现网站的实时更新
 ### A little about myself
 
 Hello! My name is _Evan Qian_. I am from Tongling, Anhui, PRC, a region renowned for its stunning rivers and majestic mountains. I have a passion for Chinese calligraphy, a daily hobby that I hold dear.
