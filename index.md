@@ -26,6 +26,24 @@ This website marks my first venture into webpage development, and I’m excited 
 
 ### The climate in my hometown
 ![[temperature and precipitation.png]]
+
+### Latitude
+
+The city of Tongling is located at 31 degrees north latitude.
+
+### Aspect
+
+My vineyard has a northern aspect.
+
+### Soil type
+
+Loamy soil
+
+### Drainage
+
+Point drain
+
+
 ## Viticulture terminology and concepts 葡萄飬殖術語和概念
 
 ### Vine Physiology 葡萄生理學
@@ -36,9 +54,17 @@ This website marks my first venture into webpage development, and I’m excited 
 #### Trunk 樹干 
 #### Root 樹根 
 
-gibberellin 赤霉素 flower initiation始花期 
+### Flower initiation 始花期
+gibberellin 赤黴素
 
 
+
+## Planting log 種植日誌
+
+Vine variety葡萄品種: Vitis vinifera 'Mo Li Xiang' 茉莉香
+
+July 1st. Topping 10 cm below the grid plane before the vine climbs onto the trellis grid
+7月1日：架下10釐米打頂
 
 
 
