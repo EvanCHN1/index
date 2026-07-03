@@ -1,6 +1,6 @@
 
 https://neon-scone-e58aa5.netlify.app/
-
+![[cJtnbyKAwf.png|200]]
 How to make a website like this？
 
 1. Create a new folder on your local device, then use Obsidian to make it a new vault
