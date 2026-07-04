@@ -24,25 +24,30 @@ I majored in English Teaching and have dedicated over ten years to my teaching c
 This website marks my first venture into webpage development, and I’m excited to share my knowledge and experiences with you here. Your thoughts and feedback are welcomed—you can leave comments or contact me by [291214875@qq.com](mailto:291214875@qq.com) or Wechat: aidejinian605791
 
 
-### The climate in my hometown
+### Climate
+#### Macroclimate
 ![[temperature and precipitation.png]]
-
-### Latitude
+#### Latitude
 
 The city of Tongling is located at 31 degrees north latitude.
 
-### Aspect
 
-My vineyard has a northern aspect.
+### Mesoclimate
 
-### Soil type
+#### Altitude
+14 m above sea level
+**FUN FACT:** Temperature falls about 1°F for every 100 meters increase in altitude.
+#### Aspect
+
+Facing South
+#### Soil type
 
 Loamy soil
-
-### Drainage
+#### Drainage
 
 Point drain
 
+### Microclimate
 
 ## Viticulture terminology and concepts 葡萄飬殖術語和概念
 
