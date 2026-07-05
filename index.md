@@ -27,14 +27,16 @@ This website marks my first venture into webpage development, and I’m excited 
 ### Climate
 #### Macroclimate
 ![[temperature and precipitation.png]]
-#### Latitude
-
-The city of Tongling is located at 31 degrees north latitude.
 
 
 ### Mesoclimate
 
+#### Latitude
+
+The city of Tongling is located at 31 degrees north latitude.
+
 #### Altitude
+
 14 m above sea level
 **FUN FACT:** Temperature falls about 1°F for every 100 meters increase in altitude.
 #### Aspect
