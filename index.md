@@ -40,6 +40,10 @@ The city of Tongling is located at 31 degrees north latitude.
 #### Aspect
 
 Facing South
+
+#### Diurnal temperature range
+
+
 #### Soil type
 
 Loamy soil
@@ -61,6 +65,7 @@ Point drain
 
 ### Flower initiation 始花期
 gibberellin 赤黴素
+
 
 
 
