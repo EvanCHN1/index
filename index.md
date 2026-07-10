@@ -45,14 +45,15 @@ Facing South
 
 #### Diurnal temperature range
 
+around 10°C
 
-#### Soil type
+#### Soil Type
 
-Loamy soil
-#### Drainage
+**Loamy**/Chalky/Peaty/Silty/Sandy/Clay Soil
+![[Pasted image 20260710095114.png]]
+#### Drainage System
 
-Point drain
-
+**Point**/French/Slope/Channel/Swale/Trench/HDPE/Slot/Cast-in-place Trench Drains
 ### Microclimate
 
 ## Viticulture terminology and concepts 葡萄飬殖術語和概念
