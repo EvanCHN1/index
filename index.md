@@ -59,6 +59,7 @@ around 10°C
 ## Viticulture terminology and concepts 葡萄飬殖術語和概念
 
 ### Vine Physiology 葡萄生理學
+![[Pasted image 20260714095618.png]]
 #### Canopy 樹冠
 - flower clusters花穗 --> fruit clusters果穗(1. rachis花軸 2. peduncle果柄 3.pedicel果蒂 4.berry果)
 - foliage/leaves葉 (1. petiole葉柄 2. leaf margin葉邊 3. veins葉脈 4. sinus葉竇)
@@ -69,15 +70,22 @@ around 10°C
 ### Flower initiation 始花期
 gibberellin 赤黴素
 
+### Tools
 
+secateurs
+![[Pasted image 20260715121913.png]]
 
 
 ## Planting log 種植日誌
 
-Vine variety葡萄品種: Vitis vinifera 'Mo Li Xiang' 茉莉香
+Vine variety 葡萄品種: Vitis vinifera 'Mo Li Xiang' 茉莉香
+Labrusca + Aestivalis -->Delaware
+Delaware + Chasselas -->Mo Li Xiang
 
-July 1st. Topping 10 cm below the grid plane before the vine climbs onto the trellis grid
+July 1st: Topping 10 cm below the grid plane before the vine climbs onto the trellis grid
 7月1日：架下10釐米打頂
+July 10th: Spray Carbendazim(the first time)
+7月10日：噴灌多菌靈(第一次)
 
 
 
