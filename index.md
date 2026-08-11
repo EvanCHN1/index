@@ -59,6 +59,14 @@ around 10°C
 gibberellin 赤黴素
 
 véraison 轉色
+
+Photosynthesis 光合作用
+CO<sub>2</sub> + H<sub>2</sub>O + Sunlight → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>
+
+Respiration 呼吸作用
+C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>  + 6O<sub>2</sub> → 6CO<sub>2</sub>  + 6H<sub>2</sub>O + 32 C<sub>10</sub>H<sub>16</sub>N<sub>5</sub>O<sub>13</sub>P<sub>3</sub>
+ 
+
 ### Tools 工具
 
 secateurs 修枝剪
@@ -68,13 +76,17 @@ secateurs 修枝剪
 ## Planting log 種植日誌
 
 Vine variety 葡萄品種: Vitis vinifera 'Mo Li Xiang' 茉莉香
+
 Labrusca + Aestivalis -->Delaware
 Delaware + Chasselas -->Mo Li Xiang
 
 July 1st: Topping 10 cm below the grid plane before the vine climbs onto the trellis grid
 7月1日：架下10釐米打頂
-July 10th: Spray Carbendazim(the first time)
-7月10日：噴灌多菌靈(第一次)
 
+July 10th: Spray Carbendazim(the first time)
+7月10日：噴灌多菌靈（第一次）
+
+July 23rd: Spray Carbendazim(the second time)
+7月23日：噴灌多菌靈（第二次）
 
 
